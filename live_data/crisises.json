@@ -1,1 +1,812 @@
-[]
+[
+    {
+        "Hospital_id": 157,
+        "hospital_name": "Chord Road Hospital Pvt Ltd",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 158,
+        "hospital_name": "Pristline Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 159,
+        "hospital_name": "Manipal Northside Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 160,
+        "hospital_name": "Mallya Audikesh Diagnostics Center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 161,
+        "hospital_name": "Mallige Medical Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 162,
+        "hospital_name": "Government Maternity Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 163,
+        "hospital_name": "Soujanya Clinic",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 164,
+        "hospital_name": "Hospital",
+        "in_crisis": "yes",
+        "crisis_type": 3.0
+    },
+    {
+        "Hospital_id": 165,
+        "hospital_name": "Suprabha Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 166,
+        "hospital_name": "Sangolli Nursing Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 167,
+        "hospital_name": "Diacon Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 168,
+        "hospital_name": "Namratha Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 170,
+        "hospital_name": "Fortis Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 171,
+        "hospital_name": "Citi Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 172,
+        "hospital_name": "Vasan Eye Care Hospital, Rajaji Nagar",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 173,
+        "hospital_name": "Ananya Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 174,
+        "hospital_name": "Baptist",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 175,
+        "hospital_name": "Shivakrupa Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 176,
+        "hospital_name": "Sri Maruthi hospital, Sheshadripuram",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 177,
+        "hospital_name": "Gayathri Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 178,
+        "hospital_name": "Cloud Nine Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 179,
+        "hospital_name": "Nayak Hospital, Gayathri Nagar",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 180,
+        "hospital_name": "Shanbhag Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 181,
+        "hospital_name": "Trupti Nursing Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 182,
+        "hospital_name": "Krupa Medical center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 183,
+        "hospital_name": "Penta Care Ayurvedic Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 184,
+        "hospital_name": "Shreya Poly Clinic",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 185,
+        "hospital_name": "Pragathi Ayurvedic Center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 186,
+        "hospital_name": "Leela Hospital and Diagnostic Center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 187,
+        "hospital_name": "Dr. Rajkumar Blood Bank",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 188,
+        "hospital_name": "Shifa Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 189,
+        "hospital_name": "Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 190,
+        "hospital_name": "Dr Raos Maternity Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 191,
+        "hospital_name": "Shiva Kumaraswamy Building",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 192,
+        "hospital_name": "Dr Solankis Eye Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 193,
+        "hospital_name": "Sri Sanjeevini Cold Laser Therapy",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 194,
+        "hospital_name": "St. Martha's Heart Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 195,
+        "hospital_name": "Desai Nursing Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 196,
+        "hospital_name": "Fortis Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 197,
+        "hospital_name": "Ayushman Ayurvedic therapy centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 198,
+        "hospital_name": "Pristine Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 199,
+        "hospital_name": "Arogya Kendra",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 200,
+        "hospital_name": "The Family Doctor Malleswaram",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 201,
+        "hospital_name": "V Care\u00a0Medical\u00a0Systems P Ltd",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 202,
+        "hospital_name": "Saikrupa Hospital For Women's and Surgical Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 203,
+        "hospital_name": "Cutis Academy of Cutaneous Sciences",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 204,
+        "hospital_name": "Vijayanagar Global Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 205,
+        "hospital_name": "The Homoeo World",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 206,
+        "hospital_name": "Tamara Hospital & IVF Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 207,
+        "hospital_name": "ChanRe Rheumatology and Immunology Center and Research",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 208,
+        "hospital_name": "Manasa Hospital, Vijayanagar",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 209,
+        "hospital_name": "Cauvery Orthopaedic Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 210,
+        "hospital_name": "Nethradhama Superspeciality Eye Hospital, Rajajinagar",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 211,
+        "hospital_name": "Hosmat Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 212,
+        "hospital_name": "Altius Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 213,
+        "hospital_name": "Bangalore Diabetes Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 214,
+        "hospital_name": "Vathsalya Speciality Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 215,
+        "hospital_name": "Maruthi Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 216,
+        "hospital_name": "The Eye Surgical Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 217,
+        "hospital_name": "Dr. Agrawal's Eye Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 218,
+        "hospital_name": "Ashok Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 219,
+        "hospital_name": "Dr. B. Venkatasubbarao Memorial Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 220,
+        "hospital_name": "Jupiter Hospital And Institute Of Vascular Surgery",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 221,
+        "hospital_name": "Radha Maternity and Surgical Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 222,
+        "hospital_name": "Hitech Kidney Stone Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 223,
+        "hospital_name": "Sri Dhavantari Ayurveda Hoapital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 224,
+        "hospital_name": "Vaidyam Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 225,
+        "hospital_name": "Suresh Hospital - Bangalore",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 226,
+        "hospital_name": "Lakshmi Maternity Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 227,
+        "hospital_name": "Manjunatha Maternity Home and Surgical Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 228,
+        "hospital_name": "Samprathi Eye Hospital And Squint Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 229,
+        "hospital_name": "Shankara Nethralaya Eye Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 230,
+        "hospital_name": "ChanRe Rheumatology and Immunology Center and Research",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 231,
+        "hospital_name": "Malleswaram Eye Day Care Hospital - Bengalore",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 232,
+        "hospital_name": "Mahaveer Eye Hospital Private Limited",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 233,
+        "hospital_name": "Bilva Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 234,
+        "hospital_name": "Anugraha Hospital, Vijayanagar",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 235,
+        "hospital_name": "Amar Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 236,
+        "hospital_name": "Supriya Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 237,
+        "hospital_name": "Sidvin Hospital Pvt Ltd",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 238,
+        "hospital_name": "Place Guttahalli Maternity Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 239,
+        "hospital_name": "Namratha Nursing And Maternity Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 240,
+        "hospital_name": "Spine Care And Ortho Care Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 241,
+        "hospital_name": "Tanmay Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 242,
+        "hospital_name": "Vijayanagar Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 243,
+        "hospital_name": "Punarjyoti Eye Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 244,
+        "hospital_name": "Sreeniwasa Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 245,
+        "hospital_name": "Magadi Road Maternity Home",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 246,
+        "hospital_name": "Pristine Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 247,
+        "hospital_name": "Punya Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 248,
+        "hospital_name": "Sri Ranga Arogyadhama",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 249,
+        "hospital_name": "Rotary Eye Hospital (A Unit Of Bangalore North Rotary Trust)",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 250,
+        "hospital_name": "Gurukripa Hospital and Health Care Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 251,
+        "hospital_name": "Madhu Hospital, Bengaluru Urban",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 252,
+        "hospital_name": "Padmashree Diagnostics",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 253,
+        "hospital_name": "K.C. General Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 254,
+        "hospital_name": "Yashas Neurocare",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 255,
+        "hospital_name": "Focus Diagnostic Center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 256,
+        "hospital_name": "Kamadhenu Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 257,
+        "hospital_name": "Goverment Hospital, Hosahalli",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 258,
+        "hospital_name": "Sriprasad Ayurveda",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 259,
+        "hospital_name": "Vidya Eye Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 260,
+        "hospital_name": "G.R. Hospital",
+        "in_crisis": "yes",
+        "crisis_type": 3.0
+    },
+    {
+        "Hospital_id": 261,
+        "hospital_name": "Sneha Horizon Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 262,
+        "hospital_name": "Kangroo Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 263,
+        "hospital_name": "Abhinav Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 264,
+        "hospital_name": "Suhusannidhi Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 265,
+        "hospital_name": "Sai Ortho and Dental Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 266,
+        "hospital_name": "Ammashrees Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 267,
+        "hospital_name": "Bengaluru Child Neurology and Rehabilitaion Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 268,
+        "hospital_name": "Dr. Nothesh Child Specialist",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 269,
+        "hospital_name": "Manavarthapet Pregnancy Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 270,
+        "hospital_name": "ESI Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 271,
+        "hospital_name": "Nayanalaya Super Speciality Eye Care Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 272,
+        "hospital_name": "Srinidhi Health Centre",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 273,
+        "hospital_name": "Orthopedic & Eye Care Center",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 274,
+        "hospital_name": "ESI Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 275,
+        "hospital_name": "Ramani Orthopaedic Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 276,
+        "hospital_name": "Atharva Ayurdhama Ayurvedic Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 277,
+        "hospital_name": "RICH CARE HOMEOPATHY",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 278,
+        "hospital_name": "Poornayu Ayurveda Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 279,
+        "hospital_name": "Appllo Diagnostic",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 280,
+        "hospital_name": "Supra Diagnostics Spine Care And Ortho Care Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 281,
+        "hospital_name": "K.C.General Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 282,
+        "hospital_name": "ESIC Model Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 283,
+        "hospital_name": "Government Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 284,
+        "hospital_name": "Esi Hospital Bangalore",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 285,
+        "hospital_name": "Government Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 286,
+        "hospital_name": "Janani Clinics",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 287,
+        "hospital_name": "PMC Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 288,
+        "hospital_name": "New Varalakshmi Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 289,
+        "hospital_name": "Apollo Cradle Children's Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 290,
+        "hospital_name": "Netradhama",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 291,
+        "hospital_name": "Hiremath Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    },
+    {
+        "Hospital_id": 292,
+        "hospital_name": "Jindal Charitable Hospital",
+        "in_crisis": "no",
+        "crisis_type": NaN
+    }
+]
